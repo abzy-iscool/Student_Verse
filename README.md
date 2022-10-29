@@ -1,6 +1,6 @@
-# search verse
+# Student Verse
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple Student Managment System themed around Monospace like typography
 
 ## Recommended IDE Setup
 
